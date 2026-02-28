@@ -112,6 +112,14 @@ To get started with this project, you will need the following installed on your 
     ```
 
     This will start a local static web server that serves the files from the `dist` directory. Open your browser and navigate to the provided URL to see the preview.
+   
+## GSoC 2026 Roadmap and Contributions
+As we move into 2026, the project continues to evolve with a focus on AI integration and improved data visualization. We are specifically looking for contributions that:
+- Enhance the **AI Chatbot to Guide User Workflow** project.
+- Improve mobile responsiveness for global health statistics visualization.
+- Refine documentation for new student contributors.
+
+**For GSoC 2026 Aspirants:** Please ensure you have gone through the official Jenkins GSoC guidance before proposing new features or drafting your final proposal.
 
 ## Contributing
 
